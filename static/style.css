@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://www.zimyo.com/wp-content/uploads/2024/01/Employee-Management-System-scaled.jpg");
+    background-size: contain; /* Shrinks image to fit without cropping */
+    background-repeat: no-repeat;
+    background-position: center top;
+    min-height: 100vh;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+form {
+    background: transparent;
+    padding: 30px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: none;
+    border-radius: 10px;
+    text-align: left;
+}
+
+input, button {
+    width: 100%;
+    margin: 12px 0;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+input:focus {
+    border-color: #4CAF50;
+    outline: none;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5);
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    font-weight: bold;
+    padding: 10px 16px;
+    border-radius: 6px;
+    margin-top: 12px;
+    display: inline-block;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #45a049;
+}
+
+table {
+    background: rgba(255, 255, 255, 0.9);
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 40px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 14px;
+    text-align: left;
+}
+
+th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+    color: #333;
+}
