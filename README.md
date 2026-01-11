@@ -3,7 +3,7 @@
 
 ## 📸 Project UI
 
-![Employee Management System UI](screenshot/employe.png)
+<img width="1482" height="892" alt="Image" src="https://github.com/user-attachments/assets/a1416159-e470-418b-b2a5-441b5c00993b" />
 
 
 A full‑stack web application built with **Flask**, **MySQL**, and responsive **HTML/CSS** to manage employee records efficiently.  
