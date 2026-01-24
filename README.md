@@ -1,9 +1,7 @@
 # Employee Management System
 
 
-## 📸 Project UI
 
-![Employee Management System UI](screenshot/employe.png)
 
 
 A full‑stack web application built with **Flask**, **MySQL**, and responsive **HTML/CSS** to manage employee records efficiently.  
@@ -53,7 +51,7 @@ git clone https://github.com/Akhila-Kurapati/employee_management_system.git
 
 python app.py
 
-Visit http://127.0.0.1:5000/ in your browser.
+Visit http://127.0.0.1:5000 in your browser.
 
 
 
