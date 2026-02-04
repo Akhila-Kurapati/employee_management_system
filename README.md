@@ -2,6 +2,10 @@
 
 
 
+ HEAD
+
+<img width="1482" height="892" alt="Image" src="https://github.com/user-attachments/assets/a1416159-e470-418b-b2a5-441b5c00993b" />
+ e50d2613b9086807e0fb24538910cacc4bce2d57
 
 
 A full‑stack web application built with **Flask**, **MySQL**, and responsive **HTML/CSS** to manage employee records efficiently.  
